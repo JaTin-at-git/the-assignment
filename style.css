@@ -1,0 +1,10 @@
+@font-face {
+    font-family: C2-Regular;
+    src: url(fonts/C2-Regular.ttf);
+}
+
+h2{
+    font-family: C2-Regular, serif;
+    font-size: 5rem;
+    letter-spacing: -5px;
+}

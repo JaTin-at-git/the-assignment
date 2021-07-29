@@ -1,0 +1,10 @@
+C1-Regular.ttf azAZ10 !"%'(),-.=
+C2-Regular.ttf azAZ !"',.:;?
+C3-Regular.ttf azAZ !"',.:;?
+C4-Regular.ttf azAZ10 !"%'(),-.=
+C5-Regular.ttf azAZ10 !"%'(),-.=
+C6mistakes-Regular.ttf azAZ10 !"%'(),-.=
+C7-Regular.ttf azAZ10 !"%'(),-.=
+C8-Regular.ttf azAZ10 !"%'(),-.=
+C9mistakes-Regular.ttf azAZ10 !"%'(),-.=
+C10mistakes-Regular.ttf azAZ10 !"%'(),-.=
